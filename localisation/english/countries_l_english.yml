@@ -1,0 +1,105 @@
+﻿l_english:
+
+ GGR:0 "Großdeutsches Reich"
+ GGR_DEF:0 "das Großdeutsches Reich"
+ GGR_ADJ:0 "German"
+
+ FRA:0 "French Republic"
+ FRA_DEF:0 "the French Republic"
+ FRA_ADJ:0 "French"
+
+ BLR:0 "Reichskommissariat Weißruthenien"
+ BLR_DEF:0 "das Reichskommissariat Weißruthenien"
+ BLR_ADJ:0 "Ruthenisch"
+
+ UKR:0 "Reichskommissariat Ukraine"
+ UKR_DEF:0 "das Reichskommissariat Ukraine"
+ UKR_ADJ:0 "Ukrainisch"
+
+ KAU:0 "Reichskommissariat Kaukasien"
+ KAU_DEF:0 "das Reichskommissariat Kaukasien"
+ KAU_ADJ:0 "Kaukasisch"
+
+ RUS:0 "Russian National Republic"
+ RUS_DEF:0 "the Russian National Republic"
+ RUS_ADJ:0 "Russian"
+
+ SOV:0 "Union of Soviet Sovereign Republics"
+ SOV_DEF:0 "the Union of Soviet Sovereign Republics"
+ SOV_ADJ:0 "Soviet"
+
+ PRC:0 "People's Republic of China"
+ PRC_DEF:0 "the People's Republic of China"
+ PRC_ADJ:0 "Chinese"
+
+ ENG:0 "British Republic"
+ ENG_DEF:0 "the British Republic"
+ ENG_ADJ:0 "British"
+
+ IRE:0 "Republic of Ireland"
+ IRE_DEF:0 "the Republic of Ireland"
+ IRE_ADJ:0 "Irish"
+
+ VLV:0 "Military Administration of Transamur"
+ VLV_DEF:0 "the Military Administration of Transamur"
+ VLV_ADJ:0 "Transamur"
+
+ ITA:0 "Kingdom of Italy"
+ ITA_DEF:0 "the Kingdom of Italy"
+ ITA_ADJ:0 "Italian"
+
+ SLO:0 "Slovak State"
+ SLO_DEF:0 "the Slovak State"
+ SLO_ADJ:0 "Slovak"
+
+ HUN:0 "Republic of Hungary"
+ HUN_DEF:0 "the Republic of Hungary"
+ HUN_ADJ:0 "Hungarian" 
+
+ ROM:0 "Kingdom of Romania"
+ ROM_DEF:0 "the Kingdom of Romania"
+ ROM_ADJ:0 "Romanian"
+
+ BUL:0 "Tsardom of Bulgaria"
+ BUL_DEF:0 "the Tsardom of Bulgaria"
+ BUL_ADJ:0 "Bulgarian"
+
+ GRE:0 "Hellenic Republic"
+ GRE_DEF:0 "the Hellenic Republic"
+ GRE_ADJ:0 "Greek"
+
+ CRO:0 "Independent State of Croatia"
+ CRO_DEF:0 "the Independent State of Croatia"
+ CRO_ADJ:0 "Croatian"
+
+ SER:0 "Serbian State"
+ SER_DEF:0 "the Serbian State"
+ SER_ADJ:0 "Serbian"
+
+ MNT:0 "Protectorate of Montenegro"
+ MNT_DEF:0 "the Protectorate of Montenegro"
+ MNT_ADJ:0 "Montenegrin"
+
+ ICE:0 "Iceland"
+ ICE_DEF:0 "Iceland"
+ ICE_ADJ:0 "Icelandic"
+
+ NOR:0 "Kingdom of Norway"
+ NOR_DEF:0 "the Kingdom of Norway"
+ NOR_ADJ:0 "Norwegian"
+
+ SWE:0 "Kingdom of Sweden"
+ SWE_DEF:0 "the Kingdom of Sweden"
+ SWE_ADJ:0 "Swedish"
+
+ FIN:0 "Republic of Finland"
+ FIN_DEF:0 "the Republic of Finland"
+ FIN_ADJ:0 "Finnish"
+
+ TUR:0 "Republic of Turkey"
+ TUR_DEF:0 "the Republic of Turkey"
+ TUR_ADJ:0 "Turkish"
+
+ USA:0 "United States of America"
+ USA_DEF:0 "the United States of America"
+ USA_ADJ:0 "American"
