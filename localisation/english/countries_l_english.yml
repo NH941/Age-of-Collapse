@@ -103,3 +103,26 @@
  USA:0 "United States of America"
  USA_DEF:0 "the United States of America"
  USA_ADJ:0 "American"
+
+ CAN:0 "Dominion of Canada"
+ CAN_DEF:0 "the Dominion of Canada"
+ CAN_ADJ:0 "Canadian"
+
+ ISR:0 "State of Israel"
+ ISR_DEF:0 "the State of Israel"
+ ISR_ADJ:0 "Israeli"
+
+ MAD:0 "Malagasy Republic"
+ MAD_DEF:0 "the Malagasy Republic"
+ MAD_ADJ:0 "Malagasy"
+
+ SPR:0 "Kingdom of Spain"
+ SPR_DEF:0 "the Kingdom of Spain"
+ SPR_ADJ:0 "Spanish"
+
+ POR:0 "Portugalizia"
+ POR_DEF:0 "Portugalizia"
+ POR_ADJ:0 "Portugalizian"
+ POR_communism:0 "People's Republic of Portugalizia"
+ POR_communism_DEF:0 "the People's Republic of Portugalizia"
+ POR_communism_ADJ:0 "Portugalizian"

@@ -11,6 +11,7 @@ puppet = VLV
 
 create_faction = faction_china
 add_to_faction = PRC
+add_to_faction = POR
 
 set_politics = {
 	ruling_party = communism
