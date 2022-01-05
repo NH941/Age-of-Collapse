@@ -1,0 +1,13 @@
+
+bitmapfonts = {
+	bitmapfont = {
+		name = "vt323_32_outline"
+		path = "gfx/fonts/vt323_32_outline"
+		color = 0xffffffff
+	}
+		bitmapfont = {
+		name = "vt323_36_outline"
+		path = "gfx/fonts/vt323_36_outline"
+		color = 0xffffffff
+	}
+}

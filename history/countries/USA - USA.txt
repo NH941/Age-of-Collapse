@@ -11,6 +11,8 @@ set_convoys = 2000
 
 create_faction = faction_usa
 add_to_faction = USA
+add_to_faction = SAF
+add_to_faction = RHO
 
 set_politics = {
 	ruling_party = neutrality

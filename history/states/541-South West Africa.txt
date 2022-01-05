@@ -2,19 +2,19 @@
 state={
 	id=541
 	name="STATE_541"
-	manpower = 462000
+	manpower = 4620000
 	
-	state_category = wasteland
+	state_category = rural
 
 	history={
-		owner = SAF
+		owner = NMB
 		buildings = {
 			infrastructure = 2
 		}
 		victory_points = {
 			4879 1
 		}
-		add_core_of = SAF
+		add_claim_by = SAF
 		add_core_of = NMB
 	}
 
@@ -22,5 +22,5 @@ state={
 		2207 2229 4879 5154 5189 7605 7770 8136 10957 10963 10978 12519 12921 13217
 	}
 
-	local_supplies=0.0 
+	local_supplies=2.0 
 }

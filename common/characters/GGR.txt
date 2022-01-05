@@ -1,0 +1,16 @@
+characters={
+	GGR_frank_franz={
+		name=GGR_frank_franz
+		portraits={
+			civilian={
+				large="gfx/leaders/GGR/Portrait_German_Frank_Franz.dds"
+			}
+		}
+		country_leader={
+			ideology=nazism
+			traits={ dictator }
+			expire="2065.1.1.1"
+			id=-1
+		}
+	}
+}

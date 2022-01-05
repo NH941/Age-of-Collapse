@@ -16,12 +16,16 @@ create_faction = Europapakt
 add_to_faction = GGR
 add_to_faction = SLO
 
+recruit_character = GGR_frank_franz
+
 set_politics = {
-	ruling_party = fascism
+	ruling_party = nationalsocialism
 	last_election = "1933.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	fascism = 100
+	nationalsocialism = 70
+        fascism = 12
+        ultramilitarism = 18
 }

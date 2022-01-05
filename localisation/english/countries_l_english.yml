@@ -126,3 +126,11 @@
  POR_communism:0 "People's Republic of Portugalizia"
  POR_communism_DEF:0 "the People's Republic of Portugalizia"
  POR_communism_ADJ:0 "Portugalizian"
+
+ SAF:0 "Republic of South Africa"
+ SAF_DEF:0 "the Republic of South Africa"
+ SAF_ADJ:0 "South African"
+
+ RHO:0 "Republic of Rhodesia"
+ RHO_DEF:0 "the Republic of Rhodesia"
+ RHO_ADJ:0 "Rhodesian"
