@@ -1,0 +1,16 @@
+characters={
+	RHO_rick_cosnett={
+		name=RHO_rick_cosnett
+		portraits={
+			civilian={
+				large="gfx/leaders/RHO/Portrait_Rhodesia_Rick_Cosnett.dds"
+			}
+		}
+		country_leader={
+			ideology=authdem_type
+			traits={ }
+			expire="2065.1.1.1"
+			id=-1
+		}
+	}
+}
