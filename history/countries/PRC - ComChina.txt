@@ -13,6 +13,8 @@ create_faction = faction_china
 add_to_faction = PRC
 add_to_faction = POR
 
+recruit_character = PRC_hou_aiguo
+
 set_politics = {
 	ruling_party = neomaoism
 	last_election = "1933.1.1"

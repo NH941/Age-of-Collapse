@@ -1,0 +1,15 @@
+characters={
+	BLR_wilhelm_dahmer={
+		name=BLR_wilhelm_dahmer
+		portraits={
+			civilian={
+				large="gfx/leaders/GGR/Portrait_German_Wilhelm_Dahmer.dds"
+			}
+		}
+		country_leader={
+			ideology=nazism
+			expire="2065.1.1.1"
+			id=-1
+		}
+	}
+}

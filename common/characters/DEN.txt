@@ -1,0 +1,15 @@
+characters={
+	DEN_arthur_elkjaer={
+		name=DEN_arthur_elkjaer
+		portraits={
+			civilian={
+				large="gfx/leaders/DEN/Portrait_Denmark_Arthur_Elkjaer.dds"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="2065.1.1.1"
+			id=-1
+		}
+	}
+}

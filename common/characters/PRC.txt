@@ -1,0 +1,15 @@
+characters={
+	PRC_hou_aiguo={
+		name=PRC_hou_aiguo
+		portraits={
+			civilian={
+				large="gfx/leaders/PRC/Portrait_China_Hou_Aiguo.dds"
+			}
+		}
+		country_leader={
+			ideology=maoism_type
+			expire="2065.1.1.1"
+			id=-1
+		}
+	}
+}

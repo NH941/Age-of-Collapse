@@ -7,13 +7,17 @@ set_technology = {
 
 set_convoys = 2000
 
+recruit_character = RUS_navalny
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = nationalsocialism
 	last_election = "1933.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	fascism = 100
+	nationalsocialism = 40
+        fascism = 30
+        ultramilitarism = 25
+        communism = 5
 }

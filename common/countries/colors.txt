@@ -53,6 +53,11 @@ IRE = {
 	color_ui = rgb { 104 207 117 }
 }
 
+DEN = {
+	color = rgb { 120 120 120 }
+	color_ui = rgb { 120 120 120 }
+}
+
 KYR = {
 	color = rgb { 80 159 90 }
 	color_ui = rgb { 104 207 117 }

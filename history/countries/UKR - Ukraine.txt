@@ -9,6 +9,8 @@ set_convoys = 2000
 
 set_cosmetic_tag = RK_UKR
 
+recruit_character = UKR_theo_henzler
+
 set_politics = {
 	ruling_party = fascism
 	last_election = "1933.1.1"
@@ -16,6 +18,5 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	fascism = 99
-        communism = 1
+	fascism = 100
 }

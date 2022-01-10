@@ -1,0 +1,16 @@
+characters={
+	RUS_navalny={
+		name=RUS_navalny
+		portraits={
+			civilian={
+				large="gfx/leaders/RUS/Portrait_Russia_Alexei_Navalny.dds"
+			}
+		}
+		country_leader={
+			ideology=nazism
+			traits={ dictator }
+			expire="2065.1.1.1"
+			id=-1
+		}
+	}
+}

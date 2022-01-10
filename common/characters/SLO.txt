@@ -1,0 +1,15 @@
+characters={
+	SLO_marian_kotleba={
+		name=SLO_marian_kotleba
+		portraits={
+			civilian={
+				large="gfx/leaders/SLO/Portrait_Slovakia_Marian_Kotleba.dds"
+			}
+		}
+		country_leader={
+			ideology=fascism_ideology
+			expire="2065.1.1.1"
+			id=-1
+		}
+	}
+}

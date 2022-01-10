@@ -12,11 +12,39 @@ puppet = BLR
 puppet = KAU
 puppet = UKR
 
-create_faction = Europapakt
+ UKR = {
+  set_politics = {
+	ruling_party = nationalsocialism
+	last_election = "1933.1.1"
+	election_frequency = 48
+	elections_allowed = no
+  }
+  set_popularities = {
+	nationalsocialism = 70
+        fascism = 30
+  }
+ }
+
+ BLR = {
+  set_politics = {
+	ruling_party = nationalsocialism
+	last_election = "1933.1.1"
+	election_frequency = 48
+	elections_allowed = no
+  }
+  set_popularities = {
+	nationalsocialism = 70
+        neutrality = 30
+  }
+ }
+
+
+create_faction = faction_german
 add_to_faction = GGR
 add_to_faction = SLO
+add_to_faction = DEN
 
-recruit_character = GGR_frank_franz
+recruit_character = GGR_matthias_fischer
 
 set_politics = {
 	ruling_party = nationalsocialism
@@ -25,7 +53,9 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	nationalsocialism = 70
+	nationalsocialism = 65
         fascism = 12
         ultramilitarism = 18
+        esotericism = 2
+        despotist = 3
 }

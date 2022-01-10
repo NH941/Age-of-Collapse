@@ -7,6 +7,8 @@ set_technology = {
 
 set_cosmetic_tag = RK_BLR
 
+recruit_character = BLR_wilhelm_dahmer
+
 set_politics = {
 	ruling_party = fascism
 	last_election = "1933.1.1"
@@ -14,6 +16,5 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	fascism = 99
-        neutrality = 1
+	fascism = 100
 }

@@ -1,0 +1,15 @@
+characters={
+	UKR_theo_henzler={
+		name=UKR_theo_henzler
+		portraits={
+			civilian={
+				large="gfx/leaders/GGR/Portrait_German_Theo_Henzler.dds"
+			}
+		}
+		country_leader={
+			ideology=nazism
+			expire="2065.1.1.1"
+			id=-1
+		}
+	}
+}

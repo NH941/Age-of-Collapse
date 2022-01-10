@@ -40,6 +40,10 @@
  IRE_DEF:0 "the Republic of Ireland"
  IRE_ADJ:0 "Irish"
 
+ DEN:0 "Kingdom of Denmark"
+ DEN_DEF:0 "the Kingdom of Denmark" 
+ DEN_ADJ:0 "Danish"
+
  VLV:0 "Military Administration of Transamur"
  VLV_DEF:0 "the Military Administration of Transamur"
  VLV_ADJ:0 "Transamur"

@@ -1,9 +1,9 @@
 characters={
-	GGR_frank_franz={
-		name=GGR_frank_franz
+	GGR_matthias_fischer={
+		name=GGR_matthias_fischer
 		portraits={
 			civilian={
-				large="gfx/leaders/GGR/Portrait_German_Frank_Franz.dds"
+				large="gfx/leaders/GGR/Portrait_German_Matthias_Fischer.dds"
 			}
 		}
 		country_leader={

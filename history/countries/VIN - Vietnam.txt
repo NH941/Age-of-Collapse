@@ -9,6 +9,8 @@ set_convoys = 2000
 
 set_cosmetic_tag = indochina
 
+recruit_character = VIN_vo_van_thuong
+
 set_politics = {
 	ruling_party = communism
 	last_election = "1933.1.1"

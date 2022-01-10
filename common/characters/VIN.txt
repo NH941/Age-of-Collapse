@@ -1,0 +1,15 @@
+characters={
+	VIN_vo_van_thuong={
+		name=VIN_vo_van_thuong
+		portraits={
+			civilian={
+				large="gfx/leaders/VIN/Portrait_Indochina_Vo_Van_Thuong.dds"
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="2065.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,7 +1,25 @@
 ﻿l_english:
 
-#GERMANY#
-GGR_frank_franz:0 "Frank Franz"
+#GERMANY AND RKS#
+GGR_matthias_fischer:0 "Matthias Fischer"
+BLR_wilhelm_dahmer:0 "Wilhelm Dahmer"
+UKR_theo_henzler:0 "Theo Henzler"
+KAU_johannes_oppolze:0 "Johannes Oppolze"
+
+#SLOVAKIA#
+SLO_marian_kotleba:0 "Marian Kotleba"
+
+#DENMARK#
+DEN_arthur_elkjaer:0 "Arthur Elkjær"
+
+#COLLAB RUSSIA#
+RUS_navalny:0 "Alexei Navalny"
 
 #RHODESIA#
 RHO_rick_cosnett:0 "Rick Cosnett"
+
+#INDOCHINA#
+VIN_vo_van_thuong:0 "Vo Van Thuong"
+
+#CHINA#
+PRC_hou_aiguo:0 "Hou Aiguo"

@@ -1,0 +1,15 @@
+characters={
+	KAU_johannes_oppolze={
+		name=KAU_johannes_oppolze
+		portraits={
+			civilian={
+				large="gfx/leaders/GGR/Portrait_German_Johannes_Oppolze.dds"
+			}
+		}
+		country_leader={
+			ideology=nazism
+			expire="2065.1.1.1"
+			id=-1
+		}
+	}
+}
