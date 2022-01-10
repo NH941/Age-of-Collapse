@@ -1,0 +1,15 @@
+characters={
+	KOR_kim_jong_un={
+		name=KOR_kim_jong_un
+		portraits={
+			civilian={
+				large="gfx/leaders/KOR/Portrait_Korea_Kim_Jong_Un.dds"
+			}
+		}
+		country_leader={
+			ideology=posadism
+			expire="2065.1.1.1"
+			id=-1
+		}
+	}
+}

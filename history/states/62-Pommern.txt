@@ -8,7 +8,7 @@ state={
 			9388 1 
 		}
 		victory_points = {
-			6282 5 
+			6282 20 
 		}
 		owner = GGR
 		buildings = {

@@ -18,7 +18,8 @@ set_politics = {
 }
 set_popularities = {
 	fascism = 40
-        marketlib = 10
-        democratic = 30 
+        nationalsocialism = 10
+        democratic = 20
+        marketlib = 10 
         neutrality = 20
 }

@@ -203,3 +203,18 @@ VIN = {
 	color_ui = rgb { 230 223 50 }
 }
 
+MEX = {
+	color = rgb { 104 152 83 }
+	color_ui = rgb { 104 152 83 }
+}
+
+MOX = {
+	color = rgb { 5 124 17 }
+	color_ui = rgb { 5 124 17 }
+}
+
+KOR = {
+	color = rgb { 122 6 64 }
+	color_ui = rgb { 122 6 64 }
+}
+

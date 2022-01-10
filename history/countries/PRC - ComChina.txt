@@ -11,7 +11,10 @@ puppet = VLV
 
 create_faction = faction_china
 add_to_faction = PRC
-add_to_faction = POR
+add_to_faction = KOR
+
+give_guarantee = POR
+give_guarantee = VIN
 
 recruit_character = PRC_hou_aiguo
 

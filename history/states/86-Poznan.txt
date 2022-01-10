@@ -6,7 +6,7 @@ state={
 	history={
 		owner = GGR
 		victory_points = {
-			6558 10 
+			6558 20 
 		}
 		buildings = {
 			infrastructure = 3
