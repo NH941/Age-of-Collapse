@@ -6,8 +6,9 @@ state={
 		victory_points = {
 			2096 1 
 		}
-		owner = SUD
+		owner = SSD
 		add_core_of = SUD
+                add_core_of = SSD
 		buildings = {
 			infrastructure = 2
 
