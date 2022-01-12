@@ -184,7 +184,7 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_6"
 		}
 		
-		color = { 255 255 0 }
+		color = { 255 0 145 }
 		
 		rules = {
 			can_create_collaboration_government = no
@@ -242,7 +242,7 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_6"
 		}
 		
-		color = { 23 230 230 }
+		color = { 255 255 0 }
 		
 		rules = {
 			can_create_collaboration_government = no

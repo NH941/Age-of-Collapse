@@ -1,0 +1,29 @@
+characters={
+	MEX_pedro_gonzales={
+		name=MEX_pedro_gonzales
+		portraits={
+			civilian={
+				large="gfx/leaders/MEX/Portrait_Mexico_Pedro_Gonzales.dds"
+			}
+		}
+		country_leader={
+			ideology=oligarchism
+			expire="2065.1.1.1"
+			id=-1
+		}
+	}
+
+	MEX_juan_iglesias={
+		name=MEX_juan_iglesias
+		portraits={
+			civilian={
+				large="gfx/leaders/MEX/Portrait_Mexico_Juan_Iglesias.dds"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			expire="2065.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -143,10 +143,14 @@
  MEX_DEF:0 "the United Mexican States"
  MEX_ADJ:0 "Mexican"
 
- MOX:0 "Mexican National Army"
- MOX_DEF:0 "the Mexican National Army"
+ MOX:0 "Mexican National Union"
+ MOX_DEF:0 "the Mexican National Union"
  MOX_ADJ:0 "Mexican"
 
  KOR:0 "Democratic People's Republic of Korea"
  KOR_DEF:0 "the Democratic People's Republic of Korea"
  KOR_ADJ:0 "Korean"
+
+ YUC:0 "Republic of Yucatán"
+ YUC_DEF:0 "the Republic of Yucatán"
+ YUC_ADJ:0 "Yucatán"

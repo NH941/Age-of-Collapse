@@ -1,4 +1,4 @@
-﻿capital = 276
+﻿capital = 474
 
 # Starting tech
 set_technology = {
@@ -7,7 +7,7 @@ set_technology = {
 
 set_convoys = 2000
 
-recruit_character = CAN_louis_bernard
+recruit_character = YUC_inda_jani
 
 
 set_politics = {
@@ -17,7 +17,8 @@ set_politics = {
 	elections_allowed = yes
 }
 set_popularities = {
-	libdem = 45
-        democratic = 30
-        marketlib = 25
+	democratic = 29
+        libdem = 54
+        libsoc = 11
+        neutrality = 6
 }

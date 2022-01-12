@@ -1,0 +1,15 @@
+characters={
+	USA_barron_trump={
+		name=USA_barron_trump
+		portraits={
+			civilian={
+				large="gfx/leaders/USA/Portrait_America_Barron_Trump.dds"
+			}
+		}
+		country_leader={
+			ideology=authdem_type
+			expire="2065.1.1.1"
+			id=-1
+		}
+	}
+}

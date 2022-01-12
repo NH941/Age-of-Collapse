@@ -1,0 +1,15 @@
+characters={
+	CAN_louis_bernard={
+		name=CAN_louis_bernard
+		portraits={
+			civilian={
+				large="gfx/leaders/CAN/Portrait_Canada_Louis_Bernard.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2065.1.1.1"
+			id=-1
+		}
+	}
+}

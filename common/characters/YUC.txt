@@ -1,0 +1,15 @@
+characters={
+	YUC_inda_jani={
+		name=YUC_inda_jani
+		portraits={
+			civilian={
+				large="gfx/leaders/YUC/Portrait_Yucatan_Inda_Jani.dds"
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="2065.1.1.1"
+			id=-1
+		}
+	}
+}

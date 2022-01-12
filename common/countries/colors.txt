@@ -218,3 +218,8 @@ KOR = {
 	color_ui = rgb { 122 6 64 }
 }
 
+YUC = {
+	color = rgb { 150 130 130 }
+	color_ui = rgb { 150 130 130 }
+}
+

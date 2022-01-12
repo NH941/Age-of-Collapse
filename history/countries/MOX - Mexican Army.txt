@@ -12,6 +12,8 @@ declare_war_on = {
 	type = annex_everything
 }
 
+recruit_character = MEX_juan_iglesias
+
 
 set_politics = {
 	ruling_party = despotist
@@ -20,5 +22,6 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	despotist = 100
+	despotist = 70
+        fascism = 30
 }
