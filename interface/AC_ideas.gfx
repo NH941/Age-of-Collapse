@@ -43,5 +43,50 @@ spriteTypes = {
 			name = "GFX_idea_GER_population"
 			texturefile = "gfx/interface/ideas/GGR/GER_population.dds"
 		}
+		
+		#LAZY IDEOLGYSSHITBUTh
+		
+
+	SpriteType = {
+			name = "GFX_ideology_despotist_group"
+			texturefile = "gfx/interface/ideologies/despotist_group.png"
+		}
+		
+	SpriteType = {
+			name = "GFX_ideology_fascism_group"
+			texturefile = "gfx/interface/ideologies/fascism_group.png"
+		}
+		
+	SpriteType = {
+			name = "GFX_ideology_nationalsocialism_group"
+			texturefile = "gfx/interface/ideologies/nationalsocialism_group.png"
+		}
+		
+	SpriteType = {
+			name = "GFX_ideology_neomaoism_group"
+			texturefile = "gfx/interface/ideologies/neomaoism_group.png"
+		}
+		
+	SpriteType = {
+			name = "GFX_ideology_neutrality_group"
+			texturefile = "gfx/interface/ideologies/neutrality_group.png"
+		}
+	
+	SpriteType = {
+			name = "GFX_ideology_ultramilitarism_group"
+			texturefile = "gfx/interface/ideologies/ultramilitarism_group.png"
+		}
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 }
