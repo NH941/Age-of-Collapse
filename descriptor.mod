@@ -1,3 +1,4 @@
+replace_path="common/ideas"
 version="1.11.4"
 tags={
 	"Alternative History"

@@ -1,0 +1,26 @@
+#SORT by tags plz
+spriteTypes = {
+	
+	#URK or Ukraine
+	SpriteType = {
+			name = "GFX_idea_URK_bread_nat"
+			texturefile = "gfx/interface/ideas/UKR/bread_nat.dds"
+		}
+		
+		SpriteType = {
+			name = "GFX_idea_URK_collaborator"
+			texturefile = "gfx/interface/ideas/UKR/collaborator.png"
+		}
+	
+	#BLR or Belarus
+	SpriteType = {
+			name = "GFX_idea_BLR_Population_suck"
+			texturefile = "gfx/interface/ideas/BLR/Population_suck.dds"
+		}
+	
+	SpriteType = {
+			name = "GFX_idea_BLR_farmer"
+			texturefile = "gfx/interface/ideas/BLR/farmer.png"
+		}
+	
+}

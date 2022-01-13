@@ -1,0 +1,105 @@
+	ideas = {
+		country = {
+			UKR_abundant_wheat_fields = {
+				picture = URK_bread_nat
+
+				allowed = {
+					always = no
+				}
+
+				allowed_civil_war = {
+					always = yes
+				}
+
+				removal_cost = -1
+				
+				modifier = {
+				
+				}
+			}
+			
+			URK_collaborator = {
+				picture = URK_collaborator
+
+				allowed = {
+					always = no
+				}
+
+				allowed_civil_war = {
+					always = yes
+				}
+
+				removal_cost = -1
+				
+				modifier = {
+				
+				}
+			}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	}

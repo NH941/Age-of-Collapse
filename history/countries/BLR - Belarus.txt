@@ -18,3 +18,8 @@ set_politics = {
 set_popularities = {
 	fascism = 100
 }
+
+add_ideas = {
+	BLR_dwindling_population
+	BLR_farmer
+}

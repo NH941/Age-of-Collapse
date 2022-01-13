@@ -1,0 +1,105 @@
+	ideas = {
+		country = {
+			BLR_dwindling_population = {
+				picture = BLR_Population_suck
+
+				allowed = {
+					always = no
+				}
+
+				allowed_civil_war = {
+					always = yes
+				}
+
+				removal_cost = -1
+				
+				modifier = {
+				
+				}
+			}
+			
+			BLR_farmer = {
+				picture = BLR_farmer
+
+				allowed = {
+					always = no
+				}
+
+				allowed_civil_war = {
+					always = yes
+				}
+
+				removal_cost = -1
+				
+				modifier = {
+				
+				}
+			}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	}
