@@ -2,9 +2,9 @@ state={
 	id=274
 	name="STATE_274"
 
-	history={
-		owner = GHA
-		add_core_of = GHA
+	history={ ###West African UnionWest African UnionWest African UnionWest African Union
+		owner = GNA
+		add_core_of = GNA
 		victory_points = {
 			10862 1 
 		}
