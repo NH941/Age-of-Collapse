@@ -9,7 +9,7 @@ spriteTypes = {
 		
 		SpriteType = {
 			name = "GFX_idea_URK_collaborator"
-			texturefile = "gfx/interface/ideas/UKR/collaborator.png"
+			texturefile = "gfx/interface/ideas/UKR/collaborator.dds"
 		}
 	
 	#BLR or Belarus
@@ -20,7 +20,28 @@ spriteTypes = {
 	
 	SpriteType = {
 			name = "GFX_idea_BLR_farmer"
-			texturefile = "gfx/interface/ideas/BLR/farmer.png"
+			texturefile = "gfx/interface/ideas/BLR/farmer.dds"
+		}
+		
+	#GGR or Greater German Reich 
+	SpriteType = {
+			name = "GFX_idea_GER_Resource_Shortages"
+			texturefile = "gfx/interface/ideas/GGR/GER_Resource_Shortages.dds"
+		}
+		
+	SpriteType = {
+			name = "GFX_idea_GER_corruption"
+			texturefile = "gfx/interface/ideas/GGR/GER_corruption.dds"
+		}
+		
+	SpriteType = {
+			name = "GFX_idea_GER_nazi"
+			texturefile = "gfx/interface/ideas/GGR/GER_nazi.dds"
+		}
+		
+	SpriteType = {
+			name = "GFX_idea_GER_population"
+			texturefile = "gfx/interface/ideas/GGR/GER_population.dds"
 		}
 	
 }

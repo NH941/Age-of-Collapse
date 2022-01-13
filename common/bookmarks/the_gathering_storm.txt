@@ -29,6 +29,10 @@ bookmarks = {
 			history = ""
 			ideology = nationalsocialism
 			ideas = {
+				GER_corruption
+				GER_Resource_Shortages
+				GER_population
+			
 			}
 			focuses = {
 			}

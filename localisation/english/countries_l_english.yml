@@ -160,3 +160,8 @@
  
  UKR_abundant_wheat_fields:0 "Abundant Wheat Fields"
  URK_collaborator:0 "Native Collaborators"
+ 
+ GER_population:0 "Stagnant Population"
+ GER_Resource_Shortages:0 "Resource Shortages"
+ GER_corruption:0 "Government Corruption"
+ GER_nazi:0 "Increasing Radicalism"

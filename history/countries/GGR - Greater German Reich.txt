@@ -59,3 +59,10 @@ set_popularities = {
         esotericism = 2
         despotist = 3
 }
+
+add_ideas = {
+	GER_Resource_Shortages
+	GER_corruption
+	GER_nazi
+	GER_population
+}
