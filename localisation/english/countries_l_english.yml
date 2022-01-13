@@ -1,5 +1,5 @@
 ﻿l_english:
-
+    
  GGR:0 "Großdeutsches Reich"
  GGR_DEF:0 "das Großdeutsches Reich"
  GGR_ADJ:0 "German"
@@ -154,3 +154,9 @@
  YUC:0 "Republic of Yucatán"
  YUC_DEF:0 "the Republic of Yucatán"
  YUC_ADJ:0 "Yucatán"
+
+ BLR_dwindling_population:0 "Dwindling Population"
+ BLR_farmer:0 "Rural Nation"
+ 
+ UKR_abundant_wheat_fields:0 "Abundant Wheat Fields"
+ URK_collaborator:0 "Native Collaborators"

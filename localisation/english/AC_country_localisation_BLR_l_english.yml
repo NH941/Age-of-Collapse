@@ -1,2 +1,4 @@
-BLR_dwindling_population:0 "Dwindling Population"
-BLR_farmer:0 "Rural Nation"
+l_english:
+ BLR_dwindling_population:0 "Dwindling Population"
+ BLR_farmer:0 "Rural Nation"
+ ###FIX PLEASE 
